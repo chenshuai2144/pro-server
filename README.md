@@ -2,7 +2,8 @@
 
 
 [ant-design-pro](https://github.com/ant-design/ant-design-pro/) mock server 
-
+          
+[中文](./README.zh-CN.md)
 ### Development
 
 ```bash
