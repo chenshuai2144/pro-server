@@ -1,19 +1,12 @@
-# api
+# pro-api-server
 
-pro-api
 
-## 快速入门
-
-<!-- 在此次添加使用文档 -->
-
-如需进一步了解，参见 [egg 文档][egg]。
-
-### 本地开发
+[ant-design-pro](https://github.com/ant-design/ant-design-pro/) mock 数据服务 
 
 ```bash
 $ npm i
 $ npm run dev
-$ open http://localhost:7001/
+$ open http://localhost:7001/index.html
 ```
 
 ### 部署
